@@ -1,0 +1,24 @@
+{
+  "name": "practicing-blockchain-with-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nohelybc/practicing-blockchain-with-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nohelybc/practicing-blockchain-with-node/issues"
+  },
+  "homepage": "https://github.com/nohelybc/practicing-blockchain-with-node#readme",
+  "dependencies": {
+    "cryptojs": "^2.5.3",
+    "hex2ascii": "^0.0.3"
+  }
+}
